@@ -5,6 +5,7 @@
 	<div class="row">
 		<div class="col-lg-10">
 			<div class="row">
+
 				@foreach ($products as $product)
 				
 					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
